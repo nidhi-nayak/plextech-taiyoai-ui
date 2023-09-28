@@ -1,0 +1,9 @@
+.desktop1Child {
+  position: absolute;
+  top: 42px;
+  left: 128px;
+  border-radius: var(--br-4xl-5);
+  background-color: var(--color-ghostwhite);
+  width: 331px;
+  height: 47px;
+}

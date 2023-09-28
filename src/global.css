@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-sm: 14px;
+  --font-size-smi: 13px;
+  --font-size-xs: 12px;
+  --font-size-xl: 20px;
+  --font-size-mini: 15px;
+  --font-size-7xl: 26px;
+
+  /* Colors */
+  --color-ghostwhite: #f5f6fa;
+  --color-black: #000;
+  --color-gray-100: #7d7d7d;
+  --color-gray-200: rgba(0, 0, 0, 0.6);
+  --color-gainsboro: rgba(217, 217, 217, 0.14);
+  --color-darkgray-100: #b4a8a8;
+  --color-darkgray-200: #a3a3a3;
+  --color-white: #fff;
+  --color-orangered: rgba(255, 101, 15, 0.82);
+  --color-darkviolet: rgba(177, 7, 236, 0.82);
+  --color-forestgreen: rgba(48, 143, 33, 0.82);
+  --color-tomato-100: #f15751;
+  --color-tomato-200: rgba(241, 87, 81, 0.79);
+  --color-tomato-300: rgba(241, 87, 81, 0.65);
+  --black: #323232;
+
+  /* Gaps */
+  --gap-12xl: 31px;
+  --gap-13xl: 32px;
+  --gap-30xl: 49px;
+
+  /* Border radiuses */
+  --br-5xs: 8px;
+  --br-4xl-5: 23.5px;
+  --br-5xl: 24px;
+}

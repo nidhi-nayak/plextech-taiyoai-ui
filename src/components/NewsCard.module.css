@@ -1,0 +1,47 @@
+.frameChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gainsboro);
+  width: 401px;
+  height: 150px;
+}
+.articleTitle,
+.oct2023,
+.shortDescriptionOf {
+  position: absolute;
+  left: 24px;
+  display: inline-block;
+}
+.oct2023 {
+  top: 41px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-roboto);
+  color: var(--color-gray-200);
+  width: 183px;
+  height: 18px;
+}
+.articleTitle,
+.shortDescriptionOf {
+  top: 13px;
+  font-weight: 600;
+  width: 210px;
+  height: 20px;
+}
+.shortDescriptionOf {
+  top: 75px;
+  font-weight: 300;
+  width: 330px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 530px;
+  left: 128px;
+  width: 401px;
+  height: 150px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

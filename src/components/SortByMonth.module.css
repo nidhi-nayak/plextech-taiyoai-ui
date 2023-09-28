@@ -1,0 +1,9 @@
+.sortByMonth {
+  position: absolute;
+  top: 147px;
+  left: 128px;
+  font-size: var(--font-size-smi);
+  display: inline-block;
+  width: 179px;
+  height: 24px;
+}
